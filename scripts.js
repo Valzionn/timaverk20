@@ -21,7 +21,7 @@ const array = [
         hair: 'black',
     },
     {
-        name: 'Hermoine Granger',
+        name: 'Hermione Granger',
         hair: 'brown',
     },
     {
